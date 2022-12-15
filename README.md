@@ -1,3 +1,3 @@
 # GPA-Calculating
 gpa 
-https://joud7685.github.io/Queries/
+https://joud7685.github.io/GPA-Calculating/
